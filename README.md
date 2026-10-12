@@ -19,10 +19,10 @@ This project is the visual front-end of a multi-tiered data engineering pipeline
 
 The dashboard screen utilizes a highly synchronized, cross-filtering dual-axis layout built to maximize user exploration:
 
-### 1. Regional Disease Distribution Chart (Y-Axis Breakdown)
+### 1. National Disease Distribution Chart (Y-Axis Breakdown)
 *   **Visual Type:** Clustered Horizontal Bar Chart.
 *   **Metrics Tracked:** Individual, independent columns for `malaria_cases` and `dengue_cases` plotted side-by-side.
-*   **National Granularity:** Aggregates and ranks disease volumes across the 5 core macro-regions: **Kenya, Israel, Canada, Congo, and Pakistan**.
+*   **National Granularity:** Aggregates and ranks disease volumes across all countries.
 
 ### 2. Multi-Metric Epidemiological Timeline (X-Axis Pipeline)
 *   **Visual Type:** Dual-Axis Line Chart.
