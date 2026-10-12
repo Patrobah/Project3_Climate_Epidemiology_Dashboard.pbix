@@ -37,7 +37,6 @@ This dashboard utilizes native relational keys to ensure that clicking an elemen
 *   **Dynamic Shifting:** Clicking on a specific macro-region bar (such as the **East** or **West** cluster) triggers an instant canvas cross-filter. 
 *   **Live Transformations:** The Line Chart immediately isolates and shifts its trend curves up or down on the fly, displaying the exact historical weather-to-pathogen correlation for that specific geographic zone alone.
 *   **Scalable Framework:** Because the fields are linked to an engineered schema view, the dashboard automatically adapts if new columns or countries are layered into the source dataset. The canvas is ready to scale globally across **Country ➡️ Region ➡️ Time Series** hierarchies seamlessly.
-
 ---
 
 ## 🏁 How to Review the Project File
