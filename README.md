@@ -11,7 +11,7 @@ While raw data tables and database rows provide secure storage, this project foc
 
 ## 🔗 Integrated Data Stack Context
 This project is the visual front-end of a multi-tiered data engineering pipeline. To see the full architectural lifecycle of how this data was staged and structured, view the companion repositories:
-*   🛢️ **Backend Database Infrastructure (Project 2):** Climate-Health-Database–Pipeline Displays the T-SQL scripts, `BULK INSERT` operations, and data-safe view conversions used to fuel this canvas.
+*   🛢️ **Backend Database Infrastructure (Project 2):** 'https://github.com/Patrobah/Climate-Health-Database-Pipeline' displays the T-SQL scripts, `BULK INSERT` operations, and data-safe view conversions used to fuel this canvas.
 
 ---
 
